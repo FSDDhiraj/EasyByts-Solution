@@ -22,9 +22,9 @@ Both applications are designed as MVPs (Minimum Viable Products) that work entir
 - ✅Clear pricing and booking information
 
 ☑️Booking System
-✅Simple one-click booking process
-✅Booking confirmation with unique ID
-✅All data stored in browser's localStorage
+-✅Simple one-click booking process
+-✅Booking confirmation with unique ID
+-✅All data stored in browser's localStorage
 
 ☑️Dashboard
 ✅Tabbed interface for upcoming and past events
