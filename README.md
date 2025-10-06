@@ -14,8 +14,7 @@ Both applications are designed as MVPs (Minimum Viable Products) that work entir
 - ✅Grid layout of event cards with images, dates, and details
 - ✅Category filtering (Music, Conference, Workshop, Sports)
 - ✅Responsive design for all devices
-
-Event Details
+☑️Event Details
 - ✅Modal popup with comprehensive event information
 - ✅Visual progress bar showing ticket availability
 - ✅Clear pricing and booking information
