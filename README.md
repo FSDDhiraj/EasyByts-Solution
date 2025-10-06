@@ -20,18 +20,15 @@ Event Details
 - ✅Visual progress bar showing ticket availability
 - ✅Clear pricing and booking information
 
-
 Booking System
 ✅Simple one-click booking process
 ✅Booking confirmation with unique ID
 ✅All data stored in browser's localStorage
 
-
 Dashboard
 ✅Tabbed interface for upcoming and past events
 ✅Visual representation of booked events
 ✅Empty states with helpful messaging
-
 
 Additional Features
 ✅Dark/light theme toggle
@@ -82,15 +79,10 @@ User Experience
 ✅Personal event calendar view
 ✅Reminder system
 
-
 Mobile App
 ✔️Native mobile application
 ✔️QR code ticket scanning
 ✔️Offline ticket access
-
-
-------------------------------------------------------------------------------------------------
-
 
 📈 StockFlow - Stock Market Dashboard
 ✨ Features
